@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Install Artifact
+Drag `timer-chrome-extension-v0.1.0-production.zip` under `artifacts` folder into `chrome://extensions/`
