@@ -84,6 +84,7 @@ export default {
   box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.1);
   background-color: #ffffff;
   z-index: 9999;
+  color: #000000;
 }
 #x-timer-logo {
   width: 80%;
